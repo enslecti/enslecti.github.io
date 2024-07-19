@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enslecti.github.io/sitemap
+Sitemap: https://enslecti.github.io/app/sitemap
+Sitemap: https://enslecti.github.io/assets/sitemap
+Sitemap: https://enslecti.github.io/css/sitemap
+Sitemap: https://enslecti.github.io/includes/sitemap
+Sitemap: https://enslecti.github.io/item/sitemap
+Sitemap: https://enslecti.github.io/src/sitemap
